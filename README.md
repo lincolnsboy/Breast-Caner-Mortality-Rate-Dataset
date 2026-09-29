@@ -1,4 +1,4 @@
-# Breast-Caner-Mortality-Rate-Dataset
+# Breast-Cancer-Mortality-Rate-Dataset
 A re-compilation of public data sets that we can use to train Ai models. These models will be able to dectect the risk associated
 various states and cases of breast cancer
 
